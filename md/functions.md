@@ -4,9 +4,7 @@
 
 ##### En JavaScript-funktion körs när något kallar det.
 
----
-
-## Exempel
+### Exempel
 
 En JavaScript-funktion definieras med nyckelordet, följt av ett namn, följt av parenteser ()
 

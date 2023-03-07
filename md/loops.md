@@ -2,11 +2,9 @@
 
 #### Loopar är praktiska, om du vill köra samma kod om och om igen, var och en tid med ett annat värde.
 
----
+#### Ofta är detta fallet när man arbetar med arrays:
 
-### Ofta är detta fallet när man arbetar med arrays:
-
-#### Istället för att skriva:
+##### Istället för att skriva:
 
 ```
 text += fruits[0] + "<br>";
@@ -16,7 +14,7 @@ text += fruits[3] + "<br>";
 text += fruits[4] + "<br>";
 ```
 
-#### Skriver du det här:
+##### Skriver du det här:
 
 ```
 for (let i = 0; i < fruits.length; i++) {

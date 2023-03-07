@@ -1,8 +1,6 @@
 # Variables
 
-### Variabler är behållare för lagring av data
-
----
+#### Variabler är behållare för lagring av data
 
 Det finns fyra olika sätt att deklarera en variabel.
 

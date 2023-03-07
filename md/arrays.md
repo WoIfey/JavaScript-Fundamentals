@@ -1,8 +1,6 @@
 # Arrays
 
-### En array är en speciell variabel som kan innehålla mer än ett värde:
-
----
+#### En array är en speciell variabel som kan innehålla mer än ett värde:
 
 ### Exempel
 

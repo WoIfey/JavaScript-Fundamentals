@@ -1,4 +1,4 @@
-##### <a href="/README.md">![JavaScript](https://img.shields.io/badge/JavaScript-README-332c00?style=for-the-badge&logo=JavaScript)</a>
+##### <a href="/README.md">![JavaScript](https://img.shields.io/badge/JavaScript-FUNDAMENTALS-332c00?style=for-the-badge&logo=JavaScript)</a>
 
 ## Innehåll:
 

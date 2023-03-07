@@ -1,8 +1,6 @@
 # Conditionals
 
-### Mycket ofta när du skriver kod vill du utföra olika åtgärder för olika beslut
-
----
+#### Mycket ofta när du skriver kod vill du utföra olika åtgärder för olika beslut
 
 ### Exempel
 
