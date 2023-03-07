@@ -29,6 +29,4 @@ Parenteserna kan innehålla parameternamn avgränsade med kommatecken:
 > Inuti funktionen fungerar argumenten (parametrarna) som lokala variabler.
 > Funktioner kan bara användas inifrån
 
----
-
 #### <a href="/README.md">![JavaScript](https://img.shields.io/badge/JavaScript-⬅️-332c00?style=for-the-badge&logo=JavaScript)</a>

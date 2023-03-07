@@ -1,12 +1,12 @@
 # Conditionals
 
-#### Mycket ofta när du skriver kod vill du utföra olika åtgärder för olika beslut
+### Mycket ofta när du skriver kod vill du utföra olika åtgärder för olika beslut
 
 ---
 
 ### Exempel
 
-Använd satsen för att ange ett block med JavaScript-kod som ska köras om ett villkor är sant `if`
+Använd `if` satsen för att ange ett block med JavaScript-kod som ska köras om ett villkor är sant
 
 ```
 if (condition) {
@@ -27,7 +27,7 @@ if (fruits > 10) {
 }
 ```
 
-Det här anger nya villkor om det första villkoret är falskt `else if`
+`else if` anger nya villkor om det första villkoret är falskt
 
 ```
 if (fruits > 10) {
@@ -40,5 +40,60 @@ if (fruits > 10) {
 ```
 
 ---
+
+Uttalandet `switch` används för att utföra olika åtgärder baserat på olika förhållanden
+
+```
+switch(expression) {
+  case x:
+    // Kod block
+    break;
+  case y:
+    // Kod block
+    break;
+  default:
+    // Kod block
+}
+```
+
+Så här går det till:
+
+- `Switch` används en gång.
+- Värdet på uttrycket jämförs med värdena för varje enskilt `case`.
+- Om det finns en matchning körs det associerade kodblocket.
+- Om det inte finns någon matchning körs standardkodblocket.
+
+---
+
+Metoden `getDay()` returnerar veckodagen som ett tal mellan 0 och 6
+
+(Söndag = 0, Måndag = 1, Tisdag = 2 ...)
+
+I det här exemplet används veckodagsnumret för att beräkna veckodagsnamnet:
+
+```
+switch (new Date().getDay()) {
+  case 0:
+    day = "Sunday";
+    break;
+  case 1:
+    day = "Monday";
+    break;
+  case 2:
+     day = "Tuesday";
+    break;
+  case 3:
+    day = "Wednesday";
+    break;
+  case 4:
+    day = "Thursday";
+    break;
+  case 5:
+    day = "Friday";
+    break;
+  case 6:
+    day = "Saturday";
+}
+```
 
 #### <a href="/README.md">![JavaScript](https://img.shields.io/badge/JavaScript-⬅️-332c00?style=for-the-badge&logo=JavaScript)</a>

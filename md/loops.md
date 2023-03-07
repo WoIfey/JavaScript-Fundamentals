@@ -38,7 +38,7 @@ do/while
 
 #### For-slingan
 
-Satsen skapar en loop med 3 valfria uttryck: `for`
+Satsen `for` skapar en loop med 3 valfria uttryck: 
 
 ```
 for (expression 1; expression 2; expression 3) {
@@ -61,7 +61,5 @@ Från exemplet ovan kan du läsa:
 > Uttryck 1 anger en variabel innan slingan startar (let i = 0).
 > Uttryck 2 definierar villkoret för att slingan ska köras (måste vara mindre än 5).
 > Uttryck 3 ökar ett värde (i++) varje gång kodblocket i loopen har avrättats.
-
----
 
 #### <a href="/README.md">![JavaScript](https://img.shields.io/badge/JavaScript-⬅️-332c00?style=for-the-badge&logo=JavaScript)</a>

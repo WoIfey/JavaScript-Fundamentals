@@ -2,6 +2,8 @@
 
 ### Variabler är behållare för lagring av data
 
+---
+
 Det finns fyra olika sätt att deklarera en variabel.
 
 ```
@@ -51,7 +53,5 @@ let total = price1 + price2;
 
 I det här exempeln ska `const` inte ändras
 Men `let` kommer att ändras
-
----
 
 #### <a href="/README.md">![JavaScript](https://img.shields.io/badge/JavaScript-⬅️-332c00?style=for-the-badge&logo=JavaScript)</a>

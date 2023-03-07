@@ -61,6 +61,4 @@ const fruits = ["Apple", "Coconut", "Watermelon", "Banana", "Strawberry"];
 let fruit = fruits[1]; // Coconut
 ```
 
----
-
 #### <a href="/README.md">![JavaScript](https://img.shields.io/badge/JavaScript-⬅️-332c00?style=for-the-badge&logo=JavaScript)</a>

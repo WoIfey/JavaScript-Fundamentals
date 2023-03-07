@@ -27,6 +27,4 @@ fruit.type + "s are " + fruit.color + " and they have " + fruit.kcal + " calorie
 // Apples are red and they have 52 calories in them.
 ```
 
----
-
 #### <a href="/README.md">![JavaScript](https://img.shields.io/badge/JavaScript-⬅️-332c00?style=for-the-badge&logo=JavaScript)</a>
